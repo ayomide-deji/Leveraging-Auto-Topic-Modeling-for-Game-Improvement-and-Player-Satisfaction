@@ -13,4 +13,5 @@ Guide the game development team in prioritizing features and enhancements that d
 Enhance overall player satisfaction.
 By leveraging this auto topic modeling technique, Gamely aims to set a new standard in game development, where player feedback plays a pivotal role in shaping future game development.
 
-Capture8.PNG
+![image](https://github.com/user-attachments/assets/9671a86f-b22e-41c1-ab5c-74d82ef33079)
+
